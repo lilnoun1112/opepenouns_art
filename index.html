@@ -47,6 +47,7 @@
       </div>
     </div>
   </div>
+
 //clickrecord script
 <script>
   const recordClick = async (element) => {
@@ -65,14 +66,26 @@
     }
   };
 
-  document.querySelector('.saw').addEventListener('click', () => {
-    recordClick('saw');
-  });
+  const randomClasses = ['saw', 'chainsaw', 'index-card', 'camcorder'];
+  const defaultClass = 'default'; // Class to be used if the random class is not one of the listed classes
 
-  document.querySelector('.chainsaw').addEventListener('click', () => {
-    recordClick('chainsaw');
-  });
+  const elementWithRandomClass = document.querySelector('.saw'); // Change '.saw' to the selector of the element that should have a random class
+
+  // Randomly select a class from the randomClasses array
+  const randomClass = randomClasses[Math.floor(Math.random() * randomClasses.length)];
+
+  // Replace the existing class with the randomly selected class
+  elementWithRandomClass.classList.remove(...randomClasses);
+  elementWithRandomClass.classList.add(randomClass || defaultClass);
+
+  // Check if the element's class is one of the classes to listen for clicks
+  if (randomClasses.includes(randomClass)) {
+    elementWithRandomClass.addEventListener('click', () => {
+      recordClick(randomClass);
+    });
+  }
 </script>
+
 
 //string to classname
 <script>
