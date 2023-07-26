@@ -1,3 +1,4 @@
+
 .saw {
   width: 100%;
   height: 100%;
@@ -21,6 +22,7 @@
   transform: scale(1.05);
 }
 
+
 .chainsaw {
   width: 100%;
   height: 100%;
@@ -43,3 +45,3316 @@
   background-clip: border-box;
   transform: scale(1.05);
 }
+
+
+.ape {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-3.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.ape:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.abstract {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-4.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.abstract:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.bag {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-5.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.bag:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.bear {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-6.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.bear:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.box {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-7.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.box:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.calculator {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-8.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.calculator:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.calendar {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-9.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.calendar:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.camcorder {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-10.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.camcorder:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.cannedham {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-11.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.cannedham:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.chart-bars {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-12.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.chart-bars:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.chocolate {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-13.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.chocolate:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.console-handheld {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-14.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.console-handheld:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.croc-hat {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-15.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.croc-hat:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.diamond-red {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-16.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.diamond-red:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.diamond-blue {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-17.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.diamond-blue:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.dino {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-18.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.dino:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.fence {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-19.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.fence:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.film-strip {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-20.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.film-strip:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.film-35mm {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-21.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.film-35mm:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.goldfish {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-22.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.goldfish:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.chipboard {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-23.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.chipboard:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.icepop-B {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-24.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.icepop-B:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.mailbox {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-25.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.mailbox:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.index-card {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-26.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.index-card:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.microwave {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-27.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.microwave:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.mirror {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-28.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.mirror:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.nigiri {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-29.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.nigiri:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.otter {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-30.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.otter:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.paintbrush {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-31.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.paintbrush:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.paperclip {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-32.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.paperclip:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.pill {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-33.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.pill:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.pillow {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-34.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.pillow:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.pipe {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-35.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.pipe:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.pumpkin {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-36.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.pumpkin:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.rabbit {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-37.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.rabbit:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.rainbow {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-38.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.rainbow:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.road {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-39.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.road:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.skateboard {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-40.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.skateboard:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.skilift {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-41.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.skilift:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.sponge {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-42.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.sponge:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.stapler {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-43.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.stapler:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.steak {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-44.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.steak:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.treasurechest {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-45.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.treasurechest:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.turing {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-46.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.turing:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.void {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-47.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.void:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.wall {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-48.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.wall:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.wallet {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-49.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.wallet:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.wallsafe {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-50.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.wallsafe:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.wine {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-51.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.wine:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.beer {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-52.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.beer:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.bat {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-53.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.bat:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.burger-dollarmenu {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-54.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.burger-dollarmenu:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.cake {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-55.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.cake:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.cashregister {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-56.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.cashregister:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.cherry {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-57.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.cherry:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.chicken {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-58.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.chicken:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.crt-bsod {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-59.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.crt-bsod:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.chefhat {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-60.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.chefhat:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.clutch {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-61.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.clutch:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.coffeebean {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-62.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.coffeebean:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.cordlessphone {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-63.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.cordlessphone:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.dictionary {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-64.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.dictionary:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.cheese {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-65.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.cheese:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.chips {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-66.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.chips:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.crown {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-67.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.crown:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.duck {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-68.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.duck:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.factory-dark {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-69.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.factory-dark:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.frog {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-70.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.frog:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.orangutan {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-71.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.orangutan:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.drill {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-72.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.drill:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.gavel {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-73.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.gavel:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.garlic {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-74.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.garlic:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.gnome {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-75.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.gnome:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.grouper {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-76.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.grouper:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.hanger {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-77.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.hanger:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.gnars-inlineskate {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-78.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.gnars-inlineskate:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.hotdog {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-79.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.hotdog:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.hardhat {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-80.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.hardhat:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.kangaroo {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-81.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.kangaroo:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.ketchup {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-82.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.ketchup:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.lipstick2 {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-83.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.lipstick2:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.milk {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-84.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.milk:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.mixer {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-85.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.mixer:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.moose {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-86.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.moose:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.mouse {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-87.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.mouse:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.mustard {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-88.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.mustard:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.onion {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-89.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.onion:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.orca {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-90.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.orca:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.panda {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-91.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.panda:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.queencrown {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-92.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.queencrown:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.shark {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-93.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.shark:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.taxi {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-94.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.taxi:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.toaster {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-95.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.toaster:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.toiletpaper-full {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-96.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.toiletpaper-full:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.vendingmachine {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-97.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.vendingmachine:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.watermelon {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-98.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.watermelon:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.werewolf {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-99.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.werewolf:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.whale {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-100.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.whale:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.foodnouns-bread-loaf {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-101.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.foodnouns-bread-loaf:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.lostnouns-cinderblock {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-102.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.lostnouns-cinderblock:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.horse-deepfried {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-103.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.horse-deepfried:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.lock {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-104.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.lock:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.sailboat {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-105.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.sailboat:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.spaghetti {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-106.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.spaghetti:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.taco {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-107.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.taco:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.ufo {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-108.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.ufo:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.weight {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-109.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.weight:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.zebra {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-110.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.zebra:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.nounsbr-cafe {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-111.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.nounsbr-cafe:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.nounsbr-campo-de-futebol {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-112.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.nounsbr-campo-de-futebol:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.nounsbr-coco {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-113.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.nounsbr-coco:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.nounsbr-havaiana {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-114.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.nounsbr-havaiana:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.nounsbr-surf {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-115.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.nounsbr-surf:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.snowmobile {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-116.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.snowmobile:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.trashcan {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-117.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.trashcan:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.sandwich {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-118.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.sandwich:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.jellyfish {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-119.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.jellyfish:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.rangefinder {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-120.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.rangefinder:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.macaroni {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-121.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.macaroni:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.pie {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-122.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.pie:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.undead {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-123.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.undead:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.wave {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-124.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.wave:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.igloo {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-125.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.igloo:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.helicopter {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-126.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.helicopter:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.island {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-127.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.island:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.bonsai {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-128.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.bonsai:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.noodles {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-129.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.noodles:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.saguaro {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-130.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.saguaro:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.scorpion {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-131.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.scorpion:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.shower {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-132.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.shower:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.plane {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-133.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.plane:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.xnouns-crt-bsod {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-134.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.xnouns-crt-bsod:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.edunouns-ruler-blue {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-135.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.edunouns-ruler-blue:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.capybara {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-136.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.capybara:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.toothbrush-fresh {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-137.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.toothbrush-fresh:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.dog {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-138.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.dog:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.pop {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-139.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.pop:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
+
+.glasses-big {
+  width: 100%;
+  height: 100%;
+  outline-offset: 0px;
+  cursor: pointer;
+  background-color: #414141;
+  background-image: url('../images/head-140.jpg');
+  background-position: 0 0;
+  background-size: contain;
+  border: 3px solid #454545;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  outline: 3px #333;
+  transition: transform .3s;
+}
+
+.glasses-big:hover {
+  -webkit-text-fill-color: inherit;
+  background-clip: border-box;
+  transform: scale(1.05);
+}
+
