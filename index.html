@@ -17,6 +17,7 @@
   <link href="images/favicon.png" rel="shortcut icon" type="image/x-icon">
   <link href="images/webclip.png" rel="apple-touch-icon">
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+ <link rel="stylesheet" href="styles.css">
 </head>
 <body class="body">
   <div class="contents">
@@ -48,6 +49,20 @@
     </div>
   </div>
 
+//class randomizer
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const randomClasses = ['.saw', '.chainsaw', /* Add more class names here */];
+
+      const randomIndex = Math.floor(Math.random() * randomClasses.length);
+      const randomClass = randomClasses[randomIndex];
+
+      const randomElement = document.getElementById('random-element');
+      randomElement.classList.remove('default');
+      randomElement.classList.add(randomClass);
+    });
+  </script>
+
 //string to classname
 <script>
   document.addEventListener('DOMContentLoaded', () => {
@@ -60,34 +75,7 @@
       headnameElement.textContent = grandparentClassName;
     });
   });
-</script>
 
-//clickrecord script
-<script>
-  const recordClick = async (element) => {
-    try {
-      const response = await fetch('https://counter1-chi.vercel.app/record-click', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ element }),
-      });
-      const data = await response.text();
-      console.log(data);
-    } catch (error) {
-      console.error('Error recording click:', error);
-    }
-  };
-
-  document.querySelector('.saw').addEventListener('click', () => {
-    recordClick('saw');
-  });
-
-  document.querySelector('.chainsaw').addEventListener('click', () => {
-    recordClick('chainsaw');
-  });
-</script>
 
 //reload
 
