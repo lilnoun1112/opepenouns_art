@@ -51,16 +51,32 @@
 
 //class randomizer
   <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      const randomClasses = ['saw', 'chainsaw', /* Add more class names here */];
+      document.addEventListener('DOMContentLoaded', () => {
+    const randomClasses = ['saw', 'chainsaw' /* Add more class names here */];
 
-      const randomIndex = Math.floor(Math.random() * randomClasses.length);
-      const randomClass = randomClasses[randomIndex];
+    // Get a random index for the first element
+    const randomIndex1 = Math.floor(Math.random() * randomClasses.length);
+    const randomClass1 = randomClasses[randomIndex1];
 
-      const randomElement = document.getElementById('head1');
-      randomElement.classList.remove('default');
-      randomElement.classList.add(randomClass);
-    });
+    // Remove the selected class from the array
+    randomClasses.splice(randomIndex1, 1);
+
+    // Get a random index for the second element (from the reduced array)
+    const randomIndex2 = Math.floor(Math.random() * randomClasses.length);
+    const randomClass2 = randomClasses[randomIndex2];
+
+    const head1Element = document.getElementById('head1');
+    if (head1Element) {
+      head1Element.classList.remove('default');
+      head1Element.classList.add(randomClass1);
+    }
+
+    const head2Element = document.getElementById('head2');
+    if (head2Element) {
+      head2Element.classList.remove('default');
+      head2Element.classList.add(randomClass2);
+    }
+  });
   </script>
 
 //string to classname
