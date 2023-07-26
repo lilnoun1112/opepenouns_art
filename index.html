@@ -76,11 +76,16 @@
 
 //string to classname
 <script>
- const headnameElement = document.querySelector('.headname');
-  const parentElement = headnameElement.parentElement;
-  const grandparentElement = parentElement.parentElement;
-  const grandparentClassName = grandparentElement.className;
-  headnameElement.textContent = grandparentClassName;
+  document.addEventListener('DOMContentLoaded', () => {
+    const headnameElements = document.querySelectorAll('.headname');
+
+    headnameElements.forEach((headnameElement) => {
+      const parentElement = headnameElement.parentElement;
+      const grandparentElement = parentElement.parentElement;
+      const grandparentClassName = grandparentElement.className;
+      headnameElement.textContent = grandparentClassName;
+    });
+  });
 </script>
 
 //reload
