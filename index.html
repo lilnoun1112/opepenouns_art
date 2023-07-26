@@ -47,6 +47,21 @@
       </div>
     </div>
   </div>
+
+//string to classname
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const headnameElements = document.querySelectorAll('.headname');
+
+    headnameElements.forEach((headnameElement) => {
+      const parentElement = headnameElement.parentElement;
+      const grandparentElement = parentElement.parentElement;
+      const grandparentClassName = grandparentElement.className;
+      headnameElement.textContent = grandparentClassName;
+    });
+  });
+</script>
+
 //clickrecord script
 <script>
   const recordClick = async (element) => {
