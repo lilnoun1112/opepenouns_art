@@ -95,28 +95,36 @@
 
 //clickrecord script
 <script>
-  const recordClick = async (element) => {
-    try {
-      const response = await fetch('https://counter1-chi.vercel.app/record-click', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ element }),
+  document.addEventListener('DOMContentLoaded', () => {
+    const recordClick = async (element) => {
+      try {
+        const response = await fetch('https://counter1-chi.vercel.app/record-click', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({ element }),
+        });
+        const data = await response.text();
+        console.log(data);
+      } catch (error) {
+        console.error('Error recording click:', error);
+      }
+    };
+
+    const sawElement = document.querySelector('.saw');
+    if (sawElement) {
+      sawElement.addEventListener('click', () => {
+        recordClick('saw');
       });
-      const data = await response.text();
-      console.log(data);
-    } catch (error) {
-      console.error('Error recording click:', error);
     }
-  };
 
-  document.querySelector('.saw').addEventListener('click', () => {
-    recordClick('saw');
-  });
-
-  document.querySelector('.chainsaw').addEventListener('click', () => {
-    recordClick('chainsaw');
+    const chainsawElement = document.querySelector('.chainsaw');
+    if (chainsawElement) {
+      chainsawElement.addEventListener('click', () => {
+        recordClick('chainsaw');
+      });
+    }
   });
 </script>
 
