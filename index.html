@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-//2.0.1
+//2.1.0
 <html data-wf-page="64a6c3b89c13301ca49cc7e1" data-wf-site="64a6c3b89c13301ca49cc7de">
 <head>
   <meta charset="utf-8">
@@ -92,6 +92,33 @@
     });
   });
   </script>
+
+//clickrecord script
+<script>
+  const recordClick = async (element) => {
+    try {
+      const response = await fetch('https://counter1-chi.vercel.app/record-click', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ element }),
+      });
+      const data = await response.text();
+      console.log(data);
+    } catch (error) {
+      console.error('Error recording click:', error);
+    }
+  };
+
+  document.querySelector('_1').addEventListener('click', () => {
+    recordClick('heads1');
+  });
+
+  document.querySelector('_2').addEventListener('click', () => {
+    recordClick('heads2');
+  });
+</script>
 
 //reload
 
