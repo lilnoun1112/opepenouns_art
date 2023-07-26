@@ -36,7 +36,7 @@
         </div>
       </div>
       <div class="option-right">
-        <div class="default">
+        <div class="chainsaw">
           <div data-w-id="1237758e-f8a8-6317-3ac2-fec7aea250f1" style="opacity:0;-webkit-transform:translate3d(0, 30px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 30px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 30px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 30px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="title-overlay">
             <div class="headname">String</div>
           </div>
@@ -47,7 +47,6 @@
       </div>
     </div>
   </div>
-
 //clickrecord script
 <script>
   const recordClick = async (element) => {
@@ -66,38 +65,12 @@
     }
   };
 
-  const randomClasses = ['saw', 'chainsaw', 'index-card', 'camcorder'];
-  const defaultClass = 'default'; // Class to be used if the random class is not one of the listed classes
+  document.querySelector('.saw').addEventListener('click', () => {
+    recordClick('saw');
+  });
 
-  const elementWithRandomClass = document.querySelector('.saw'); // Change '.saw' to the selector of the element that should have a random class
-
-  // Randomly select a class from the randomClasses array
-  const randomClass = randomClasses[Math.floor(Math.random() * randomClasses.length)];
-
-  // Replace the existing class with the randomly selected class
-  elementWithRandomClass.classList.remove(...randomClasses);
-  elementWithRandomClass.classList.add(randomClass || defaultClass);
-
-  // Check if the element's class is one of the classes to listen for clicks
-  if (randomClasses.includes(randomClass)) {
-    elementWithRandomClass.addEventListener('click', () => {
-      recordClick(randomClass);
-    });
-  }
-</script>
-
-
-//string to classname
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const headnameElements = document.querySelectorAll('.headname');
-
-    headnameElements.forEach((headnameElement) => {
-      const parentElement = headnameElement.parentElement;
-      const grandparentElement = parentElement.parentElement;
-      const grandparentClassName = grandparentElement.className;
-      headnameElement.textContent = grandparentClassName;
-    });
+  document.querySelector('.chainsaw').addEventListener('click', () => {
+    recordClick('chainsaw');
   });
 </script>
 
